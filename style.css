@@ -1,40 +1,62 @@
-.container{
-  text-align: center;
-  border: 2px solid gray;
-  height: 400px;
-  width:380px;
-  margin-left: 450px;
-  margin-top: 150px;
-  background: transparent;
-  color: rgb(242, 15, 200);
-  backdrop-filter: blur(20px);
-  border-radius: 90px;
+.image{
+    width: 70%;
+    height: 160px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border: 2px solid rgb(7, 219, 219);
 }
-.rute{
-  background-image: url(https://img.freepik.com/free-vector/gradient-futuristic-background_52683-74028.jpg?semt=ais_hybrid);
-  background-size: 100%;
+.head{
+    padding-left: 90px;
+    color: aliceblue;
 }
-.hari{
-  background: transparent;
-  border: transparent;
-  color: rgb(246, 246, 247);
-} 
-.cls{
-  background: transparent;
-  border: transparent;
-  color: rgb(24, 24, 167); 
-} 
-img{
-  width: 90px;
-  height: 90px;
-  text-align: center;
-  justify-content: center;
-  padding-bottom: 30px;
-  border-radius: 30px;
-
+.rate{
+    padding-left: 90px;
+    color: aliceblue;
 }
-.imge{
-  text-align: center;
-  justify-content: center;
-
+.para{
+    padding-left: 90px;
+    color: aliceblue;
+}
+.box1{
+  display: flex;
+  flex-direction: row;
+background-color: transparent;
+ margin-bottom: 40px;
+ margin-left: 50px;
+}
+.clothes{
+    color: blue;
+    padding-left: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 24%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: transparent;
+    margin-left: 40px;
+}
+.head1{
+    padding-left: 90px;
+    color: aliceblue;
+   
+}
+.image2{
+    width: 70%;
+    height: 160px;
+    margin-top: 30px;
+    margin-left: 60px;
+    border: 2px solid rgb(7, 219, 219);
+    margin-right: 80px;
+}
+.box{
+   border: 2px solid rgb(250, 246, 246);
+   width: 40%;
+   height: 15%;
+  margin-left: 80px;
+  padding-right: 40px;
+  background-color: transparent;
+}
+.mad{
+    background-image: url(../../../../../../images/bg.jpg);
+    background-size: 100%;
 }
