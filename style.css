@@ -1,0 +1,40 @@
+.container{
+  text-align: center;
+  border: 2px solid gray;
+  height: 400px;
+  width:380px;
+  margin-left: 450px;
+  margin-top: 150px;
+  background: transparent;
+  color: rgb(242, 15, 200);
+  backdrop-filter: blur(20px);
+  border-radius: 90px;
+}
+.rute{
+  background-image: url(https://img.freepik.com/free-vector/gradient-futuristic-background_52683-74028.jpg?semt=ais_hybrid);
+  background-size: 100%;
+}
+.hari{
+  background: transparent;
+  border: transparent;
+  color: rgb(246, 246, 247);
+} 
+.cls{
+  background: transparent;
+  border: transparent;
+  color: rgb(24, 24, 167); 
+} 
+img{
+  width: 90px;
+  height: 90px;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 30px;
+  border-radius: 30px;
+
+}
+.imge{
+  text-align: center;
+  justify-content: center;
+
+}
